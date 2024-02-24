@@ -37,7 +37,7 @@ the report contains a single page dashboard
 
 ## Analysis
 
-1. 38.96%  Agreed  with the survey  “ my department is inclusive and demonstrates support for a diverse workforce”, this is consistent with the planning and public works deparment while 14.68 Disagreed with the survey question “in the last seven days I have received recognition or praise for doing good work”.
+1.11.56%  Agreed  with the survey question “ my department is inclusive and demonstrates support for a diverse workforce”, this is consistent with the planning and public works deparment while 21.69% disagrees with the survey question “I have a best friend at work”.
    
 2.Based on their status from the data set 0.92% had incomplete status and 99.08% had complete status.
 
