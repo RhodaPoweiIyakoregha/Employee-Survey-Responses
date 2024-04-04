@@ -33,7 +33,7 @@ this model is a single table schema. the dataset consist of one table that conta
 ## Visualization
 the report contains a single page dashboard
 
-![](survey_dashboard1.png)
+![](Employee_Original.png)
 
 ## Analysis
 
